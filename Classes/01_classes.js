@@ -5,3 +5,4 @@ var Animal = /** @class */ (function () {
     }
     return Animal;
 }());
+ 
